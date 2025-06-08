@@ -1,6 +1,6 @@
 Simple Grade Average Calculator
 
-This is a simple Python project that allows a user to enter three grades, calculates the average, and gives an evaluation based on the result (e.g., Excellent, Good, Pass, or Fail).
+This is a simple Python program that calculates the average of three grades entered by the user and gives a performance evaluation (Excellent, Good, Pass, or Fail). It includes input validation, basic logic control, and clear function structure — perfect for beginners.
 
 ---
 
