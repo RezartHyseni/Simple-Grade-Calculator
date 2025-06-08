@@ -44,3 +44,8 @@ Uses while loop to validate inputs
 Automatically Generated Output:
 
 Automatically calculates and displays the average and evaluation message
+
+simple-grade-calculator/
+│
+├── main.py        # Contains the full program logic
+└── README.md      # Documentation and instructions
