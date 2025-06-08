@@ -44,6 +44,7 @@ Uses while loop to validate inputs
 Automatically Generated Output:
 
 Automatically calculates and displays the average and evaluation message
+_____________________________________________
 
 simple-grade-calculator/
 │
